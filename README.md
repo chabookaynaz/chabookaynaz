@@ -36,6 +36,32 @@ A group academic poster comparing grain-oriented and non-grain-oriented electric
 
 *Created with Rasul Alitabar Malekshah and Rasol Motamed. Poster in English.*
 
+### ProCAST Casting Simulation
+
+A casting-simulation project presented through thermal evolution, hot-spot analysis, and predicted shrinkage porosity.
+
+**Software:** ProCAST · **Focus:** solidification behavior and casting-defect assessment
+
+<img src="procast-thermal.gif" alt="ProCAST thermal evolution animation" width="700">
+
+[View thermal animation](procast-thermal.gif) · [View hot-spot results](procast-hotspot.png) · [View shrinkage-porosity results](procast-shrinkage.png)
+
+<details>
+<summary>Explore the result maps</summary>
+
+**Hot spots**
+
+<img src="procast-hotspot.png" alt="ProCAST hot-spot result map" width="700">
+
+**Predicted shrinkage porosity**
+
+<img src="procast-shrinkage.png" alt="ProCAST shrinkage porosity result map" width="700">
+
+</details>
+
+*The supplied files contain exported result images and an animation. Simulation setup, material inputs, and experimental validation are not included.*
+
+
 ## Areas explored in my coursework
 
 Materials processing · Solidification and casting · Conductive polymers · Self-healing materials · Electrical steels · Technical literature review
@@ -43,3 +69,4 @@ Materials processing · Solidification and casting · Conductive polymers · Sel
 ## About this portfolio
 
 These projects represent academic coursework. Group work retains shared authorship. The public report editions use new covers without student identifiers; the original report content and references follow. Embedded figures and imagery retain their original attribution and ownership.
+
