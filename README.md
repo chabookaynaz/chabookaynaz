@@ -2,25 +2,44 @@
 
 ### Materials science · Processing · Design
 
-My academic portfolio explores the relationship between material structure, processing, and performance through advanced polymers, casting design, and electrical steels.
+My academic portfolio explores how material structure and processing influence performance, from self-healing polymers to cast steel components and electrical steels.
 
-## Featured projects
+## Selected projects
 
-| Project | Focus | Academic work |
-| --- | --- | --- |
-| **Self-Healing Conductive Polymers** | Healing mechanisms, electronic and ionic conductivity, fabrication, and electronic-skin applications | Group literature review |
-| **Gate Valve Body Casting Design** | Material selection, sand cores, riser sizing, gating calculations, and inspection planning | Individual design report with a supplied technical drawing |
-| **Electrical Steel** | Grain-oriented and non-grain-oriented steels, processing routes, properties, and applications | Group academic poster |
+### Self-Healing Conductive Polymers
+
+A group literature review of healing mechanisms, electronic and ionic conductivity, synthesis, fabrication, and electronic-skin applications.
+
+**Topics:** conductive hydrogels · dynamic bonds · PEDOT:PSS · wearable sensors
+
+[Read the report](self-healing-conductive-polymers.pdf)
+
+*Group coursework with Soroush Al Mohammad and Morteza Nouri. Original report in Persian.*
+
+### Gate Valve Body Casting Design
+
+An individual design study covering material selection, sand cores, riser sizing, gating calculations, inspection planning, and finishing operations.
+
+<img src="gate-valve-preview.png" alt="Supplied gate valve body technical drawing" width="700">
+
+[Read the design report](gate-valve-casting-design.pdf) · [View the supplied technical drawing](gate-valve-drawing.pdf)
+
+*Principles of Solidification and Casting coursework. Original report in Persian; design calculations have not been independently validated for production.*
+
+### Electrical Steel: Processing and Applications
+
+A group academic poster comparing grain-oriented and non-grain-oriented electrical steels, their manufacturing routes, properties, and applications in electromagnetic devices.
+
+<img src="electrical-steel-preview.png" alt="Electrical steel academic poster" width="800">
+
+[View the full poster](electrical-steel-poster.pdf)
+
+*Created with Rasul Alitabar Malekshah and Rasol Motamed. Poster in English.*
 
 ## Areas explored in my coursework
 
-- **Materials processing:** solidification, casting, and manufacturing routes
-- **Advanced materials:** conductive polymers, self-healing materials, and hydrogels
-- **Metallurgy:** electrical steels and processing–structure–property relationships
-- **Technical communication:** literature reviews, engineering calculations, and academic posters
+Materials processing · Solidification and casting · Conductive polymers · Self-healing materials · Electrical steels · Technical literature review
 
 ## About this portfolio
 
-These projects represent academic coursework. Group projects retain shared authorship; the casting report is individual work. The original reports are in Persian, and the electrical-steel poster is in English.
-
-Project documents and English overviews are being organized for this portfolio.
+These projects represent academic coursework. Group work retains shared authorship. The public report editions use new covers without student identifiers; the original report content and references follow. Embedded figures and imagery retain their original attribution and ownership.
