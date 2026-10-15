@@ -6,6 +6,15 @@ My academic portfolio explores how material structure and processing influence p
 
 ## Selected projects
 
+### Austempering of DF2 Steel
+
+A two-person Physical Metallurgy Laboratory II project examining heat treatment and optical microstructure in DF2 steel. The report discusses the 15-minute specimen after austempering at 320 degrees Celsius and the observed martensitic and bainitic microstructure.
+
+[Read the laboratory report](project%20report.pdf)
+
+*Co-authored by Aynaz Chabouk and Nima Eslam Beik. Instructor: Dr. Mostafa Karami. Original report in Persian; public cover omits student identifiers.*
+
+
 ### Self-Healing Conductive Polymers
 
 A group literature review of healing mechanisms, electronic and ionic conductivity, synthesis, fabrication, and electronic-skin applications.
