@@ -10,12 +10,6 @@ The final submission for the Quera exercise "Demand Forecasting" received **100/
 
 The exercise compares a simple moving average over the last N observations with exponential smoothing, then calculates absolute percentage error against a supplied actual value.
 
-## Revision history
-
-The original algorithm is preserved. Only its generated Colab metadata and notebook link were removed. Its smoothing loop repeatedly uses the first observation; it also truncates intermediate values, has inconsistent tie output, and does not validate input.
-
-The portfolio revision was prepared with Codex assistance. It updates the smoothing state for every observation, retains floating-point precision, handles ties in a single branch, and validates the window, alpha and actual value. It follows the mathematical definitions in the exercise; it does not claim compatibility with the historic grader's formatting or inconsistent example error percentage.
-
 ## Run
 
 Python 3, standard library only:
