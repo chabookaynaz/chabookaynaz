@@ -1,3 +1,20 @@
+## Read these projects in English
+
+English companions explain the methods, findings and figures in the Persian reports. Original reports and media remain available from each companion.
+
+| Project | English guide |
+| --- | --- |
+| DF2 steel metallography | [Method and findings](df2-steel-EN.md) |
+| ProCAST casting simulation | [Results guide](procast-EN.md) |
+| Gate valve body casting design | [Design companion](gate-valve-EN.md) |
+| Self-healing conductive polymers | [Literature-review companion](self-healing-polymers-EN.md) |
+| Electrical steel | [Poster guide](electrical-steel-EN.md) |
+| MOSFET | [Presentation guide](mosfet-EN.md) |
+
+[Browse all six projects and original sources](PROJECTS-EN.md)
+
+---
+
 # Hi, I'm Aynaz
 
 ### Materials science · Processing · Design
